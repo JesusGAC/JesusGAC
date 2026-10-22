@@ -150,7 +150,6 @@ Projects focused on discovering patterns, processing information, and using comp
 - Association rule mining using Apriori.
 - Data visualization.
 - Optimization algorithms.
-- Ant Colony Optimization.
 - Computational intelligence.
 
 **Focus:** Analytical thinking, intelligent algorithms, and data-driven solutions.
