@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/space-banner.svg" alt="Space Banner — Jesús Axel García de la Cruz" width="100%" />
+<img src="space-banner.svg" alt="Space Banner — Jesús Axel García de la Cruz" width="100%" />
 
 # Jesús Axel García de la Cruz
 
